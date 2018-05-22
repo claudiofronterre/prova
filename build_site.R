@@ -2,7 +2,7 @@
 #This helps avoid confusion if our working directory is 
 #not our site because of other projects we were 
 #working on at the time. 
-setwd("~/Dropbox/LSHTM/SpatEpi Course/IntroSpatCourse/prova/")
+setwd("~/Dropbox/LSHTM/SpatEpi Course/IntroSpatCourse/isair/")
 
 #render your sweet site. 
 rmarkdown::render_site()
